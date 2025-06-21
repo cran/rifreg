@@ -1,4 +1,4 @@
-f0aca1600f7332b06de62b17dcd671dd *DESCRIPTION
+1de974b5450c5d823d7d3235c8a24b4b *DESCRIPTION
 0ded7d27296b23be5a499a6e9a6959a6 *NAMESPACE
 04ada3383639f360cb827b1656609607 *R/check_weights.R
 71166713df3441c3ba7990db4d1fd4d6 *R/data.R
@@ -34,7 +34,7 @@ fe2991b126aeb4562e06daf2189c1756 *man/plot.rifreg.Rd
 d19ed77861a959aa81144cb6289ed0e4 *man/summary.rifreg.Rd
 6b8c25656c401f7860027185e1899ac4 *tests/testthat.R
 222651d48092de2e983c942aa8140700 *tests/testthat/test-check_weights.R
-aa7e62d2271c11605761d5a1b500f4d0 *tests/testthat/test-plot.R
+b0a16eb47cdf30dbb09607e42afb8f17 *tests/testthat/test-plot.R
 e861d2ea1db306b158b3058d6dcbfde8 *tests/testthat/test-print.R
 e13f157e9e5dc6110c8e7dbb421447d5 *tests/testthat/test-rif.R
 4b191d7dba81b84d8cc1f04a403d137f *tests/testthat/test-rifreg.R
